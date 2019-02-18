@@ -1,0 +1,7 @@
+/**
+* 通用样式
+*/
+html, body, :global(#root) {
+  height: 100%;
+}
+
